@@ -1,3 +1,5 @@
+[blue_green_curriculum_website.html](https://github.com/user-attachments/files/27278559/blue_green_curriculum_website.html)
+
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap');
 
